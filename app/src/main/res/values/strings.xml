@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="text_switch_camera">Switch Camera</string>
+</resources>
